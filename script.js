@@ -51,30 +51,3 @@ function renderPets(pets) {
   });
 }
 
-// Theme toggle and persistence
-function initTheme() {
-  const themeToggle = document.getElementById('themeToggle');
-  if (!themeToggle) return;
-
-  // initialize button text based on saved theme (default dark)
-  const saved = localStorage.getItem('tg_theme');
-  if (saved === 'light') {
-    document.body.classList.add('light-mode');
-    themeToggle.textContent = '🌞 Light Mode';
-  } else {
-    // ensure dark baseline
-    document.body.classList.remove('light-mode');
-    themeToggle.textContent = '🌙 Dark Mode';
-  }
-
-  themeToggle.addEventListener('click', () => {
-    document.body.classList.toggle('light-mode');
-    if (document.body.classList.contains('light-mode')) {
-      themeToggle.textContent = '🌞 Light Mode';
-      localStorage.setItem('tg_theme', 'light');
-    } else {
-      themeToggle.textContent = '🌙 Dark Mode';
-      localStorage.setItem('tg_theme', 'dark');
-    }
-  });
-}

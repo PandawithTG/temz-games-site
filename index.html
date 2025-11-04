@@ -20,17 +20,6 @@
     html {
       background-color: #121212; /* sötét háttér még CSS betöltés előtt */
     }
-  </style>
-
-  <!-- ✅ 2. Téma detektálása betöltés előtt -->
-  <script>
-    (function() {
-      const theme = localStorage.getItem('theme') || 'dark';
-      if (theme === 'light') {
-        document.documentElement.classList.add('light');
-        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
-      }
-    })();
   </script>
 
 </head>
@@ -44,7 +33,6 @@
       <a href="staff.html">Staff</a>
       <a href="contact.html">Contact</a>
     </nav>
-    <button id="themeToggle">🌙 Dark Mode</button>
   </header>
 
   <main>

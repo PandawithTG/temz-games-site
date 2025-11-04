@@ -6,18 +6,12 @@
   <title>Pet Simulator 99 X Modded 2 | Value List</title>
   
 <!-- ✅ 1. Azonnali háttér, hogy ne villanjon fehér -->
+<style>
+    html {
+      background-color: #121212; /* sötét háttér még CSS betöltés előtt */
+    }
+  </style>
   
-
-  <!-- ✅ 2. Téma detektálása betöltés előtt -->
-  <script src="script.js">
-    (function() {
-      const theme = localStorage.getItem('theme') || 'dark';
-      if (theme === 'light') {
-        document.documentElement.classList.add('light');
-        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
-      }
-    })();
-  </script>
   <style>
     .controls input[type="search"], .controls select{padding:8px 10px;border-radius:8px;border:none;min-width:180px;background:rgba(0, 0, 0);color:#FFFFFF(--text)}
   </style>
@@ -34,7 +28,6 @@
       <a href="staff.html">Staff</a>
       <a href="contact.html">Contact</a>
     </nav>
-    <button id="themeToggle">🌙 Dark Mode</button>
   </header>
 
   <main>

@@ -12,17 +12,6 @@
     }
   </style>
 
-  <!-- ✅ 2. Téma detektálása betöltés előtt -->
-  <script src="script.js">
-    (function() {
-      const theme = localStorage.getItem('theme') || 'dark';
-      if (theme === 'light') {
-        document.documentElement.classList.add('light');
-        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
-      }
-    })();
-  </script>
-
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -35,7 +24,6 @@
       <a href="staff.html">Staff</a>
       <a href="contact.html">Contact</a>
     </nav>
-    <button id="themeToggle">🌙 Dark Mode</button>
   </header>
 
   <main>

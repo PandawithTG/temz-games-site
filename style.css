@@ -21,12 +21,6 @@ html, body {
   overflow-x: hidden; /* ha valami kilóg, ne legyen vízszintes görgetés */
 }
 
-/* Light mode background fix */
-html.light, html.light body {
-  background-color: #f4f4f4;
-  color: #000000;
-}
-
 /* === GLOBAL RESET & BASE COLORS === */
 
 html, body {
@@ -36,12 +30,6 @@ html, body {
   color: #ffffff;
   font-family: 'Segoe UI', Arial, sans-serif;
   transition: background-color 0.3s, color 0.3s;
-}
-
-/* Világos mód */
-html.light, html.light body {
-  background-color: #f4f4f4;
-  color: #000000;
 }
 
 /* Link színek */
@@ -59,26 +47,12 @@ header, footer {
   background-color: #1e1e1e;
 }
 
-html.light header,
-html.light footer {
-  background-color: #e2e2e2;
-}
-
-
 :root{
   --bg-color: #1e1e2f;
   --card-bg: #2d2d4d;
   --text-color: #ffffff;
   --accent: #6c63ff;
 }
-
-body.light-mode{
-  --bg-color: #f8f8ff;
-  --card-bg: #ffffff;
-  --text-color: #000000;
-  --accent: #007bff;
-}
-
 /* theme specific (visual differentiation for two games) */
 .theme-ps99 { --accent: #4da6ff; }
 .theme-remastered { --accent: #b266ff; }

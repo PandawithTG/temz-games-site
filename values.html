@@ -5,18 +5,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Temz Games — Value Lists</title>
 
-
-  
-  <script src="script.js">
-    (function(){
-      const theme = localStorage.getItem('tg_theme') || 'dark';
-      if (theme === 'light') {
-        document.documentElement.classList.add('light-mode');
-        document.documentElement.style.backgroundColor = '#f4f4f4';
-      }
-    })();
-  </script>
-
   <style>
     :root{
       --bg: #121212;
@@ -24,18 +12,6 @@
       --muted: #9aa0b3;
       --accent: #6c63ff;
       --text: #e9eef8;
-    }
-    .light-mode {
-      --bg: #f4f4f4;
-      --card: #ffffff;
-      --muted: #555;
-      --accent: #2b6cf6;
-      --text: #FFFFFF;
-      .pet-title: #000000;
-      .pet-meta: #000000;
-      .variant-name: #000000;
-      span: #000000;
-      
     }
     *{box-sizing:border-box}
     html,body{height:100%;margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
@@ -93,7 +69,6 @@
           <option>Exclusives</option>
           <option>Stat pets</option>
         </select>
-        <button id="themeToggle">🌙 Dark Mode</button>
       </div>
     </header>
 
@@ -175,17 +150,6 @@
 
     searchInput.addEventListener('input',renderList);
     categoryFilter.addEventListener('change',renderList);
-
-    function initTheme(){
-      const t = localStorage.getItem('tg_theme') || 'dark';
-      document.documentElement.classList.toggle('light-mode',t==='light');
-      themeToggle.textContent = t==='light'?'🌞 Light Mode':'🌙 Dark Mode';
-    }
-    themeToggle.addEventListener('click',()=>{
-      const isLight = document.documentElement.classList.toggle('light-mode');
-      localStorage.setItem('tg_theme', isLight?'light':'dark');
-      initTheme();
-    });
 
     initTheme();
     loadData();

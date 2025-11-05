@@ -1,4 +1,4 @@
-[
+{
  {
     "name": "Gigantamax OG Cat",
     "category": "Epic",
@@ -8,8 +8,8 @@
       "Gold": "1",
       "Rainbow": "1",
       "Shiny": "1",
-      "Shiny Golden":"1",
-      "Shiny Rainbow":"1"
+      "Shiny Golden": "1",
+      "Shiny Rainbow": "1"
     }
   },
   {
@@ -21,4 +21,4 @@
       "Shiny": "800"
     }
   }
-]
+ }

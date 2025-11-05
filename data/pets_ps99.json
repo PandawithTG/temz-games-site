@@ -1,24 +1,20 @@
-{
- {
+[
+  {
     "name": "Gigantamax OG Cat",
-    "category": "Epic",
-    "image": "images/gigantamax.png",
+    "category": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "1",
-      "Gold": "1",
-      "Rainbow": "1",
-      "Shiny": "1",
-      "Shiny Golden": "1",
-      "Shiny Rainbow": "1"
+      "Base": "4B",
+      "Golden": "9B",
+      "Rainbow": "34B"
     }
   },
   {
-    "name": "Golden Tiger X",
-    "category": "Legendary",
-    "image": "images/goldentiger.png",
+    "name": "Rainbow Gigantamax OG Cat",
+    "category": "Exclusive",
+    "image": "images/gigantamax_rainbow.png",
     "variants": {
-      "Base": "500",
-      "Shiny": "800"
+      "Base": "34B"
     }
   }
- }
+]

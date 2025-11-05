@@ -109,7 +109,7 @@ footer{background:var(--card-bg);padding:12px;text-align:center;margin-top:18px;
 
 /* staff cards */
 .staff-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;padding:18px}
-.staff-card{background:var(--card-bg);padding:12px;border-radius:10px;text-align:center}
+.staff-card{background:var(--card-bg);padding:12px;border-radius:10px;text-align:center;margin:20px}
 .staff-card img{width:72px;height:72px;border-radius:50%;object-fit:cover;margin:auto;display:block}
 
 /* events */

@@ -142,7 +142,7 @@
           <div class="pet-thumb"><img src="${pet.image}" alt="${pet.name}"></div>
           <div class="pet-body">
             <h3 class="pet-title">${pet.name}</h3>
-            <div class="pet-meta">category: ${pet.category || '—'} • Base value: ${pet.variants?.Base ?? '—'}</div>
+            <div class="pet-meta">category: ${pet.category || '—'} ${pet.rarity ? `• ${pet.rarity}` : ''} • Base value: ${pet.variants?.Base ?? '—'}</div>
             <details>
               <summary><span>Show variants</span><span class="arrow" style="margin-left:8px">▼</span></summary>
               <div style="margin-top:8px">

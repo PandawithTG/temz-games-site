@@ -19,7 +19,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -33,7 +33,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -47,7 +47,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -61,7 +61,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -75,7 +75,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -89,7 +89,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -103,7 +103,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -117,7 +117,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -131,7 +131,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "?",
+      "Base": "?",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -145,7 +145,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -159,7 +159,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -173,7 +173,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -187,7 +187,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -201,7 +201,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -215,7 +215,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -229,7 +229,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -243,7 +243,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -257,7 +257,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -271,7 +271,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -285,7 +285,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -299,7 +299,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -313,7 +313,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -327,7 +327,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -341,7 +341,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+     "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -355,7 +355,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -369,7 +369,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -383,7 +383,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -397,7 +397,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -407,10 +407,11 @@
   },
   {
     "name": "a",
-    "category": "Exclusive",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -420,10 +421,11 @@
   },
   {
     "name": "a",
-    "category": "Exclusive",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -433,10 +435,11 @@
   },
   {
     "name": "a",
-    "category": "Exclusive",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -446,10 +449,11 @@
   },
   {
     "name": "a",
-    "category": "Exclusive",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Normal": "4B",
+      "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",

@@ -5,7 +5,7 @@
     "rarity": "Titanic",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "1b",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -103,7 +103,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "35m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -117,7 +117,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "63m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -131,7 +131,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "65m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -145,7 +145,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "61m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -159,7 +159,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "45m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -173,7 +173,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "64m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -187,7 +187,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "25m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -201,7 +201,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "75m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -215,7 +215,7 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "?",
+      "Base": "18m",
       "Golden": "?",
       "Rainbow": "?",
       "Shiny": "?",
@@ -341,7 +341,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "4.2m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -355,7 +355,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "4.5m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -369,7 +369,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "5.4m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -383,7 +383,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "7m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -397,7 +397,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "6m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -411,7 +411,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "4m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -425,21 +425,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Calico Cat",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
+      "Base": "4.5m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -453,7 +439,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "1.1m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -467,7 +453,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "800k",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -481,7 +467,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "?",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -495,7 +481,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "1.1m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -509,7 +495,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "1.4m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -523,7 +509,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "6.8m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -537,7 +523,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-     "Base": "4B",
+     "Base": "8m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -551,7 +537,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "9m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -565,7 +551,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "3.1m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -579,7 +565,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "6.5m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -593,7 +579,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Base": "1.3m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -607,21 +593,7 @@
     "rarity": "Superior",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Wyvern of Hades",
-    "category": "Stat pets",
-    "rarity": "Divine",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
+      "Base": "1.2m",
       "Golden": "9B",
       "Rainbow": "34B",
       "Shiny": "?",
@@ -635,9 +607,9 @@
     "rarity": "Divine",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "150k",
+      "Golden": "0",
+      "Rainbow": "0",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -652,6 +624,34 @@
       "Base": "4B",
       "Golden": "9B",
       "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Cupcake Hamster",
+    "category": "Stat pets",
+    "rarity": "Legendary",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "0",
+      "Golden": "0",
+      "Rainbow": "0",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "?",
+    "category": "Stat pets",
+    "rarity": "?",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "0",
+      "Golden": "0",
+      "Rainbow": "0",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"

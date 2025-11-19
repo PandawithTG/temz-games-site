@@ -101,93 +101,120 @@
   </div>
 
   <script>
-    const tabs = document.querySelectorAll('.tab-btn');
-    const listWrap = document.getElementById('listWrap');
-    const searchInput = document.getElementById('search');
-    const categoryFilter = document.getElementById('categoryFilter');
-    const themeToggle = document.getElementById('themeToggle');
-    let activeGame = 'ps99';
-    const CATEGORY_SETS = {
-    ps99: ["Galactics", "Chromatics", "Colossals", "Gigantics"],
-    remastered: ["Titanics", "Huges", "Exclusives", "Stat pets"]
-    };
-    let DATA = { ps99: [], remastered: [] };
-    function updateCategoryFilter() {
-    const categories = CATEGORY_SETS[activeGame] || [];
-    categoryFilter.innerHTML =
+/* === CATEGORY SETS: minden játékhoz a saját kategóriái === */
+const CATEGORY_SETS = {
+  ps99: ["Secret","Exotic","Divine","Mythical","Legendary"],
+  remastered: ["Titanic","Huge","Exclusive","Stat pets"]
+};
+
+/* === DOM referenciák és állapot === */
+const tabs = document.querySelectorAll('.tab-btn');
+const listWrap = document.getElementById('listWrap');
+const searchInput = document.getElementById('search');
+const categoryFilter = document.getElementById('categoryFilter');
+let activeGame = 'ps99';
+let DATA = { ps99: [], remastered: [] };
+
+/* === segédfüggvény: frissíti a select opciókat az activeGame alapján === */
+function updateCategoryFilter() {
+  if (!categoryFilter) return;
+  const categories = CATEGORY_SETS[activeGame] || [];
+  // építsük fel újra az option-okat
+  categoryFilter.innerHTML =
     `<option value="all">All categories</option>` +
-    categories.map(c => `<option>${c}</option>`).join('');
+    categories.map(c => `<option value="${c}">${c}</option>`).join('');
+  // reseteljük a választást
+  categoryFilter.value = 'all';
+}
+
+/* === adatbetöltés === */
+async function loadData() {
+  try {
+    const [ps99Res, remRes] = await Promise.all([
+      fetch('data/pets_ps99.json'),
+      fetch('data/pets_remastered.json')
+    ]);
+    if (!ps99Res.ok || !remRes.ok) {
+      console.error('Fetch status', ps99Res.status, remRes.status);
+      listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">Could not load pet data (fetch error).</p>';
+      return;
     }
-
-    async function loadData() {
-      const [ps99Data, remData] = await Promise.all([
-        fetch('data/pets_ps99.json').then(r=>r.json()),
-        fetch('data/pets_remastered.json').then(r=>r.json())
-      ]);
-      DATA.ps99 = ps99Data;
-      DATA.remastered = remData;
-      renderList();
-    }
-
-    function renderList() {
-      const raw = DATA[activeGame] || [];
-      const q = (searchInput.value || '').toLowerCase();
-      const categoryVal = categoryFilter.value || 'all';
-      const filtered = raw.filter(p=>{
-        const matchesName = p.name.toLowerCase().includes(q);
-        const matchescategory = categoryVal === 'all' || p.category === categoryVal;
-        return matchesName && matchescategory;
-      });
-
-      listWrap.innerHTML = '';
-      if (!filtered.length) {
-        listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">No pets found.</p>';
-        return;
-      }
-
-      filtered.forEach(pet=>{
-        const card = document.createElement('article');
-        card.className = 'pet-card';
-        card.innerHTML = `
-          <div class="pet-thumb"><img src="${pet.image}" alt="${pet.name}"></div>
-          <div class="pet-body">
-            <h3 class="pet-title">${pet.name}</h3>
-            <div class="pet-meta">Category: ${pet.category || '—'} • Rarity: ${pet.rarity || '—'} • Base value: ${pet.variants?.Base ?? '—'}</div>
-            <details>
-              <summary><span>Show variants</span><span class="arrow" style="margin-left:8px">▼</span></summary>
-              <div style="margin-top:8px">
-                ${Object.entries(pet.variants || {}).map(([k,v])=>`
-                  <div class="variant-item">
-                    <div class="variant-name">${k} ${pet.name}</div>
-                    <div class="variant-value">${v}</div>
-                  </div>`).join('')}
-              </div>
-            </details>
-          </div>`;
-        listWrap.appendChild(card);
-      });
-    }
-
-    tabs.forEach(btn=>{
-  btn.addEventListener('click',()=>{
-    tabs.forEach(b=>b.classList.remove('active'));
-    btn.classList.add('active');
-    
-    activeGame = btn.getAttribute('data-game');
-
+    DATA.ps99 = await ps99Res.json();
+    DATA.remastered = await remRes.json();
+    // ha betöltöttük az adatokat, frissítjük a kategória listát és renderelünk
     updateCategoryFilter();
+    renderList();
+    console.log('Loaded DATA.ps99 length=', DATA.ps99.length, 'remastered=', DATA.remastered.length);
+  } catch (err) {
+    console.error('loadData error', err);
+    listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">Could not load pet data.</p>';
+  }
+}
 
-    searchInput.value = '';
-    categoryFilter.value = 'all';
+/* === render (szűrés + kirajzolás) === */
+function renderList() {
+  const raw = DATA[activeGame] || [];
+  const q = (searchInput?.value || '').toLowerCase();
+  const cat = (categoryFilter?.value || 'all');
 
+  const filtered = raw.filter(p => {
+    const matchesName = p.name?.toLowerCase().includes(q);
+    const matchesCategory = cat === 'all' || (p.category === cat);
+    return matchesName && matchesCategory;
+  });
+
+  listWrap.innerHTML = '';
+  if (!filtered.length) {
+    listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">No pets found.</p>';
+    return;
+  }
+
+  filtered.forEach(pet => {
+    const card = document.createElement('article');
+    card.className = 'pet-card';
+    card.innerHTML = `
+      <div class="pet-thumb"><img src="${pet.image || 'images/placeholder.png'}" alt="${pet.name || 'Pet'}"></div>
+      <div class="pet-body">
+        <h3 class="pet-title">${pet.name || 'Unnamed'}</h3>
+        <div class="pet-meta">Category: ${pet.category || '—'} • Rarity: ${pet.rarity || '—'} • Base value: ${pet.variants?.Base ?? pet.value ?? '—'}</div>
+        <details>
+          <summary><span>Show variants</span><span class="arrow" style="margin-left:8px">▼</span></summary>
+          <div style="margin-top:8px">
+            ${Object.entries(pet.variants || {}).map(([k,v])=>`
+              <div class="variant-item">
+                <div class="variant-name">${k} ${pet.name}</div>
+                <div class="variant-value">${v}</div>
+              </div>`).join('')}
+          </div>
+        </details>
+      </div>
+    `;
+    listWrap.appendChild(card);
+  });
+}
+
+/* === események === */
+tabs.forEach(btn => {
+  btn.addEventListener('click', () => {
+    tabs.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeGame = btn.getAttribute('data-game') || 'ps99';
+
+    // FONTOS: előbb frissítjük a category-selectet az új játéknak,
+    // majd reseteljük a keresőt, végül renderelünk.
+    updateCategoryFilter();
+    if (searchInput) searchInput.value = '';
+    if (categoryFilter) categoryFilter.value = 'all';
     renderList();
   });
 });
 
-    searchInput.addEventListener('input',renderList);
-    categoryFilter.addEventListener('change',renderList);
-    
-    loadData();
-  </script>
+if (searchInput) searchInput.addEventListener('input', renderList);
+if (categoryFilter) categoryFilter.addEventListener('change', renderList);
+
+/* === init === */
+loadData();
+</script>
+
 </body>
 </html>

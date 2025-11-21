@@ -58,8 +58,8 @@
   {
   "name": "Chromatic Phoenix",
   "image": "images/pets/phoenix.png",
-  "category": "Exotic",
-  "rarity": "Chromatic",
+  "category": "Chromatics",
+  "rarity": "Exclusive",
   "colors": {
     "Red": {
       "Base": "100m",

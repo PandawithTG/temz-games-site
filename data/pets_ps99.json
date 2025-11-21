@@ -61,12 +61,12 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base", "A=1","B=2","C=3","D=4","E=5","F=6",
-      "Golden", "A=1","B=2","C=3","D=4","E=5","F=6",
-      "Rainbow", "A=1","B=2","C=3","D=4","E=5","F=6",
-      "Shiny", "A=1","B=2","C=3","D=4","E=5","F=6",
-      "Shiny Golden", "A=1","B=2","C=3","D=4","E=5","F=6",
-      "Shiny Rainbow", "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Base": "A=1, B=2, C=3, D=4, E=5, F=6",
+      "Golden": "A=1, B=2, C=3, D=4, E=5, F=6",
+      "Rainbow": "A=1, B=2, C=3, D=4, E=5, F=6",
+      "Shiny": "A=1, B=2, C=3, D=4, E=5, F=6",
+      "Shiny Golden": "A=1, B=2, C=3, D=4, E=5, F=6",
+      "Shiny Rainbow": "A=1, B=2, C=3, D=4, E=5, F=6",
     }
   },
   {

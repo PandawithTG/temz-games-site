@@ -56,43 +56,17 @@
     }
   },
   {
-  "name": "Chromatic Phoenix",
-  "image": "images/pets/phoenix.png",
-  "category": "Chromatics",
-  "rarity": "Exclusive",
-  "colors": {
-    "Red": {
-      "Base": "100m",
-      "Gold": "300m",
-      "Rainbow": "1b",
-      "Shiny": "5b"
-    },
-    "Blue": {
-      "Base": "110m",
-      "Gold": "330m",
-      "Rainbow": "1.1b",
-      "Shiny": "6b"
-    },
-    "Purple": {
-      "Base": "120m",
-      "Gold": "360m",
-      "Rainbow": "1.2b",
-      "Shiny": "7b"
-    }
-  }
-},
-  {
     "name": "Chromatic 2M Splash Angelus",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
+      "Base": "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Golden": "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Rainbow": "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Shiny": "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Shiny Golden": "A=1","B=2","C=3","D=4","E=5","F=6",
+      "Shiny Rainbow": "A=1","B=2","C=3","D=4","E=5","F=6",
     }
   },
   {

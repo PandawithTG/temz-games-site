@@ -56,7 +56,161 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic 1M Sun Dog",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic 2M Splash Angelus",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Angel Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Anime Monkey",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Arcane Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Ardortuus",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Atlantean Jellyfish",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Autumn Chest Mimic",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Capybara",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic CatBurger",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Chromatic Difference Cat",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -84,7 +238,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Ghoul Horse",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -98,7 +252,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Hubert",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -112,7 +266,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Ink Blob",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -126,7 +280,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Lucki",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -140,7 +294,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic McTemzald's Chest Mimic",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -154,7 +308,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Mining Monkey",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -168,7 +322,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Nightmare Sludge",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -182,7 +336,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Obsidian Dragon",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -196,7 +350,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Party Crown Corgi",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -210,7 +364,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Pog Cat",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -224,7 +378,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Pump",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -238,7 +392,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Rockstar Hubert",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -252,7 +406,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Royal Beast",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -266,7 +420,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Sun Dog",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -280,175 +434,7 @@
     }
   },
   {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
-    "category": "Chromatics",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "1b",
-      "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Chromatic Ghostface Cat",
+    "name": "Chromatic Wild Galaxy Agony",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",

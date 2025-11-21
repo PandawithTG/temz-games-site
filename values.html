@@ -177,31 +177,15 @@ function renderList() {
       <div class="pet-body">
         <h3 class="pet-title">${pet.name || 'Unnamed'}</h3>
         <div class="pet-meta">Category: ${pet.category || '—'} • Rarity: ${pet.rarity || '—'} • Base value: ${pet.variants?.Base ?? pet.value ?? '—'}</div>
-            ${pet.rarity !== "Chromatic" && pet.variants ? 
-  Object.entries(pet.variants).map(([k,v]) => `
-    <div class="variant-item">
-      <div class="variant-name">${k} ${pet.name}</div>
-      <div class="variant-value">${v}</div>
-    </div>`).join(''
-        ${pet.rarity === "Chromatic" && pet.colors ? 
-  Object.entries(pet.colors).map(([colorName, variants]) => `
-    <details style="margin-top:10px">
-      <summary>
-        <span>${colorName} Color</span>
-        <span class="arrow" style="margin-left:8px">▼</span>
-      </summary>
-      <div style="margin-top:8px">
-        ${Object.entries(variants).map(([variantName, value]) => `
-          <div class="variant-item">
-            <div class="variant-name">${variantName} ${pet.name}</div>
-            <div class="variant-value">${value}</div>
-          </div>
-        `).join('')}
-      </div>
+            <details>
+          <summary><span>Show variants</span><span class="arrow" style="margin-left:8px">▼</span></summary>
+          <div style="margin-top:8px">
+            ${Object.entries(pet.variants || {}).map(([k,v])=>`
+              <div class="variant-item">
+                <div class="variant-name">${k} ${pet.name}</div>
+                <div class="variant-value">${v}</div>
+              </div>`).join('')}
     </details>
-  `).join('')
-  : ''
-}
       </div>
     `;
     listWrap.appendChild(card);

@@ -62,10 +62,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "A=1, B=2, C=3, D=4, E=5, F=6",
-      "Golden": "A=1, B=2, C=3, D=4, E=5, F=6",
       "Rainbow": "A=1, B=2, C=3, D=4, E=5, F=6",
       "Shiny": "A=1, B=2, C=3, D=4, E=5, F=6",
-      "Shiny Golden": "A=1, B=2, C=3, D=4, E=5, F=6",
       "Shiny Rainbow": "A=1, B=2, C=3, D=4, E=5, F=6"
     }
   },
@@ -76,10 +74,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -90,10 +86,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -104,10 +98,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -118,10 +110,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -132,10 +122,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -146,10 +134,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -160,10 +146,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -174,10 +158,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -188,10 +170,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -202,10 +182,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -216,10 +194,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -230,10 +206,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -244,10 +218,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -258,10 +230,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -272,10 +242,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -286,10 +254,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -300,10 +266,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -314,10 +278,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -328,10 +290,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -342,10 +302,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -356,10 +314,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -370,10 +326,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -384,10 +338,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -398,10 +350,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -412,10 +362,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
@@ -426,10 +374,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
-      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },

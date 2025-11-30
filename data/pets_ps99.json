@@ -12,6 +12,18 @@
     }
   },
   {
+    "name": "Galactic Hubert",
+    "category": "Galactics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
     "name": "Galactic McTemzald's Cat",
     "category": "Galactics",
     "rarity": "Exclusive",

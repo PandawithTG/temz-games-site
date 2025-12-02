@@ -66,9 +66,9 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
-      "Rainbow": "34=?, 30%=, 20%=?, 10%=?, 4%=?, 2%=?",
-      "Shiny": "Yellow(34%)=?, Pink(30%)=?, Blue(20%)=?, Orange(10%)=?, Red(4%)=?, Purple(2%)=?",
-      "Shiny Rainbow": "A=1, B=2, C=3, D=4, E=5, F=6"
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {

@@ -60,7 +60,31 @@
     }
   },
   {
+    "name": "Chromatic 1M Sun Dog",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
     "name": "Chromatic 2M Splash Angelus",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
+    "name": "Chromatic 3M Zen Fish",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -180,7 +204,31 @@
     }
   },
   {
+    "name": "Chromatic Cupcake",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
     "name": "Chromatic Difference Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
+    "name": "Chromatic Enchanted Fish",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -252,6 +300,18 @@
     }
   },
   {
+    "name": "Chromatic Lucky Block",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
     "name": "Chromatic McTemzald's Chest Mimic",
     "category": "Chromatics",
     "rarity": "Exclusive",
@@ -312,6 +372,18 @@
     }
   },
   {
+    "name": "Chromatic Party Panda",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
     "name": "Chromatic Pog Cat",
     "category": "Chromatics",
     "rarity": "Exclusive",
@@ -361,6 +433,18 @@
   },
   {
     "name": "Chromatic Sun Dog",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
+    }
+  },
+  {
+    "name": "Chromatic Umbrella Bear",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",

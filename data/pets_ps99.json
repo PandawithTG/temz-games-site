@@ -65,7 +65,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=22.5q, Pink=26.5q, Blue=34q, Orange=41q, Red=110q, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -77,7 +77,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=41q, Red=90q, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -89,7 +89,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Base": "Yellow=16.5q, Pink=20.5q, Blue=27q, Orange=35q, Red=80q, Green=170q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
@@ -101,7 +101,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=75q, Purple=180q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -113,7 +113,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=43q, Red=95q, Purple=175q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -125,7 +125,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=16.5q, Pink=21q, Blue=27q, Orange=33q, Red=75q, Purple=130q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -137,7 +137,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Purple=?, Red=?",
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Purple=75q, Red=150q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Purple=?, Red=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Purple=?, Red=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Purple=?, Red=?"
@@ -149,7 +149,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=15.5q, Pink=19.5q, Blue=27q, Orange=31q, Red=60q, Purple=125q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -161,7 +161,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Black=34q, Red=75q, Orange=150q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?"
@@ -173,7 +173,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
+      "Base": "Yellow=?, Pink=?, Blue=?, Black=N/A, Red=N/A, Orange=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?"
@@ -185,7 +185,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=41q, Red=90q, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -197,7 +197,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=15.5q, Pink=19.5q, Blue=25q, Orange=31q, Red=65q, Purple=140q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -209,7 +209,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=21.5q, Pink=25.5q, Blue=31q, Orange=35q, Red=90q, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -221,7 +221,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Green=190q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
@@ -233,7 +233,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Base": "Yellow=22.5q, Pink=26.5q, Blue=34q, Orange=41q, Red=100q, Green=200q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
@@ -245,7 +245,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Black=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?"
@@ -257,7 +257,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Green=180q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
@@ -269,7 +269,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -281,7 +281,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=15.5q, Pink=19.5q, Blue=26q, Orange=33q, Red=70q, Purple=160q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -293,19 +293,19 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=41q, Red=90q, Green=O/C",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
     }
   },
   {
-    "name": "Chromatic Lucky Block",
+    "name": "Chromatic Lucky Block Mimic",
     "category": "Chromatics",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=21.5q, Pink=25.5q, Blue=29.5q, Orange=37.5q, Red=80q, Purple=120q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -317,7 +317,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Black=34q, Red=70q, Orange=135q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?"
@@ -329,7 +329,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=21.5q, Pink=25.5q, Blue=31q, Orange=35q, Red=85q, Purple=200q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -341,7 +341,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=41q, Red=90q, Black=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?"
@@ -353,7 +353,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=19.5q, Pink=24.5q, Blue=28q, Orange=36q, Red=75q, Purple=200q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -365,7 +365,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=22.5q, Pink=26.5q, Blue=34q, Orange=41q, Red=100q, Purple=220q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -389,7 +389,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=16.5q, Pink=21q, Blue=27q, Orange=34q, Red=75q, Purple=150q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -401,7 +401,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
+      "Base": "Yellow=19.5q, Pink=23.5q, Blue=28.5q, Black=37.5q, Red=100q, Orange=160q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?"
@@ -413,7 +413,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=15.5q, Pink=19.5q, Blue=24q, Orange=31q, Red=65q, Purple=120q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -425,7 +425,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=21.5q, Pink=25.5q, Blue=31q, Orange=37q, Red=85q, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -437,7 +437,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -449,7 +449,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Purple=?",
+      "Base": "Yellow=20.5q, Pink=24.5q, Blue=28.5q, Black=36.5q, Red=80q, Purple=135q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Purple=?"
@@ -461,7 +461,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=18.5q, Pink=25q, Blue=28q, Orange=38q, Red=70q, Purple=130q",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"

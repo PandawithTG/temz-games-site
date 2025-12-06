@@ -5,10 +5,10 @@
     "rarity": "Titanic",
     "image": "https://images-ext-1.discordapp.net/external/vkPZKv8IRSMG14-g_0Ru5smDt9repJ2YgmuV0pEv2MA/https/tr.rbxcdn.com/180DAY-57f061913e793b61bf08199d54d42c41/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
-      "Base": "placeholder",
-      "Golden": "placeholder",
-      "Rainbow": "placeholder",
-      "Shiny": "placeholder",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -313,9 +313,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -327,9 +327,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -341,9 +341,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -355,23 +355,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
-      "Shiny": "?",
-      "Shiny Golden": "?",
-      "Shiny Rainbow": "?"
-    }
-  },
-  {
-    "name": "Doge",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -383,9 +369,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -397,9 +383,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -411,9 +397,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -425,9 +411,9 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -441,8 +427,8 @@
     "variants": {
       "Base": "4.2m",
       "Golden": "12.6m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "37.8m",
+      "Shiny": "37.8m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -455,8 +441,8 @@
     "variants": {
       "Base": "4.5m",
       "Golden": "13.5m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "40.5m",
+      "Shiny": "40.5m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -469,8 +455,8 @@
     "variants": {
       "Base": "5.4m",
       "Golden": "16.2m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "48.6m",
+      "Shiny": "48.6m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -483,8 +469,8 @@
     "variants": {
       "Base": "7m",
       "Golden": "21m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "63m",
+      "Shiny": "63m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -497,8 +483,8 @@
     "variants": {
       "Base": "6m",
       "Golden": "18m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "54m",
+      "Shiny": "54m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -511,8 +497,8 @@
     "variants": {
       "Base": "4m",
       "Golden": "12m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "36m",
+      "Shiny": "36m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -525,8 +511,8 @@
     "variants": {
       "Base": "4.5m",
       "Golden": "13.5m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "40.5m",
+      "Shiny": "40.5m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -539,8 +525,8 @@
     "variants": {
       "Base": "1.1m",
       "Golden": "3.3m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "9.9m",
+      "Shiny": "9.9m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -553,8 +539,8 @@
     "variants": {
       "Base": "800k",
       "Golden": "2.4m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "7.2m",
+      "Shiny": "7.2m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -566,8 +552,8 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "?",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -581,8 +567,8 @@
     "variants": {
       "Base": "1.1m",
       "Golden": "3.3m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "9.9m",
+      "Shiny": "9.9m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -595,8 +581,8 @@
     "variants": {
       "Base": "1.4m",
       "Golden": "4.2m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "12.6m",
+      "Shiny": "12.6m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -609,8 +595,8 @@
     "variants": {
       "Base": "6.8m",
       "Golden": "20.4m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "61.2m",
+      "Shiny": "61.2m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -623,8 +609,8 @@
     "variants": {
      "Base": "8m",
       "Golden": "24m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "64m",
+      "Shiny": "64m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -637,8 +623,8 @@
     "variants": {
       "Base": "9m",
       "Golden": "27m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "81m",
+      "Shiny": "81m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -651,8 +637,8 @@
     "variants": {
       "Base": "3.1m",
       "Golden": "9.3m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "27.9m",
+      "Shiny": "27.9m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -665,8 +651,8 @@
     "variants": {
       "Base": "6.5m",
       "Golden": "19.5m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "58.5m",
+      "Shiny": "58.5m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -679,8 +665,8 @@
     "variants": {
       "Base": "1.3m",
       "Golden": "3.9m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "11.7m",
+      "Shiny": "11.7m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -691,9 +677,9 @@
     "rarity": "Exotic",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "placeholder",
-      "Golden": "placeholder",
-      "Rainbow": "placeholder",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -707,8 +693,8 @@
     "variants": {
       "Base": "1.2m",
       "Golden": "3.6m",
-      "Rainbow": "34B",
-      "Shiny": "?",
+      "Rainbow": "10.8m",
+      "Shiny": "10.8m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -721,8 +707,8 @@
     "variants": {
       "Base": "150k",
       "Golden": "450k",
-      "Rainbow": "0",
-      "Shiny": "?",
+      "Rainbow": "1.35m",
+      "Shiny": "1.35m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -733,9 +719,9 @@
     "rarity": "Exotic",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -747,9 +733,9 @@
     "rarity": "Legendary",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "0",
-      "Golden": "0",
-      "Rainbow": "0",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -761,9 +747,9 @@
     "rarity": "Divine",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "0",
-      "Golden": "0",
-      "Rainbow": "0",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
@@ -775,9 +761,9 @@
     "rarity": "Superior",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "0",
-      "Golden": "0",
-      "Rainbow": "0",
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"

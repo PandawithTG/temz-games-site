@@ -109,8 +109,7 @@
   <script>
 /* === CATEGORY SETS: minden játékhoz a saját kategóriái === */
 const CATEGORY_SETS = {
-  ps99: ["Galactics","Chromatics","Colossals","Gigantic"],
-  remastered: ["Titanics","Huges","Exclusives","Stat pets"]
+  ps99: ["Galactics","Chromatics","Colossals"]
 };
 
 /* === DOM referenciák és állapot === */
@@ -136,12 +135,11 @@ function updateCategoryFilter() {
 /* === adatbetöltés === */
 async function loadData() {
   try {
-    const [ps99Res, remRes] = await Promise.all([
+    const [ps99Res] = await Promise.all([
       fetch('data/pets_ps99.json'),
-      fetch('data/pets_remastered.json')
     ]);
-    if (!ps99Res.ok || !remRes.ok) {
-      console.error('Fetch status', ps99Res.status, remRes.status);
+    if (!ps99Res.ok) {
+      console.error('Fetch status', ps99Res.status);
       listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">Could not load pet data (fetch error).</p>';
       return;
     }
